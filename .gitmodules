@@ -1,0 +1,6 @@
+[submodule "cathageo-nodejs"]
+	path = cathageo-nodejs
+	url = https://github.com/MehdiGuerfa/projet_olympics.git
+[submodule "cathageo"]
+	path = cathageo
+	url = https://github.com/cboucheIGN/carthageo-nodejs.git
